@@ -1,6 +1,6 @@
 # Analisis-y-Prediccion-del-Precio-Spot-Energetico
 
-# Descripción breve
+# Descripción
 
 Este proyecto analiza la evolución y comparación de los precios spot de energía eléctrica en Colombia y otros países (Argentina y Chile). Utiliza datos diarios (reales o simulados) convertidos a USD, aplicando visualizaciones gráficas y ajustes económicos para facilitar la comparación entre mercados energéticos.
 Además, permite realizar comparaciones entre países, observar tendencias, volatilidad y aplicar ajustes polinomiales para mejorar la interpretación de los datos.
